@@ -1,0 +1,28 @@
+.intro{
+	background-color: powderblue;
+	margin: 2vw;
+	padding-top: 1em;
+
+}
+
+.homeImg {
+	width: 75%;
+	height: 80%;	
+	margin: 0.5vw;
+}
+
+@media screen and (min-width: 70em) {
+	.about.text{
+		width: 1020px;
+		padding-right: 354px:
+	}
+}
+
+.about.text{
+	max-width: 1900px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+	position: relative;
+}
+
